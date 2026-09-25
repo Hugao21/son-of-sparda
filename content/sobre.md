@@ -27,3 +27,17 @@ Dono e único funcionário da **Devil May Cry**, uma loja/escritório que aceita
 - Décadas de experiência prática contra praticamente qualquer tipo de criatura infernal
 
 
+
+## Transformações Demoníacas
+
+### Devil Trigger
+Ao liberar a totalidade de sua herança demoníaca, Dante assume sua verdadeira forma. O *Devil Trigger* altera sua aparência para uma armadura orgânica ameaçadora, amplifica drasticamente sua força física e velocidade, além de conceder regeneração passiva de ferimentos. Como a transformação consome muita energia, ela só pode ser mantida por curtos períodos durante o combate.
+![DT](https://static.wikia.nocookie.net/devilmaycry/images/4/47/DT_DMC4.png/revision/latest?cb=20150401072421)
+
+### Sin Devil Trigger
+A evolução suprema e definitiva do seu poder, alcançada ao fundir os fragmentos da Rebellion com a lendária espada Sparda diretamente em seu próprio corpo. Nesta forma colossal, Dante transcende o poder de qualquer lorde demônio, ganhando a habilidade de voar livremente e obliterar oponentes com rajadas de energia pura e fogo cósmico.
+
+![Sin Devil Trigger](https://static.wikia.nocookie.net/devilmaycry/images/4/43/SDTDante.png/revision/latest?cb=20200210005421&path-prefix=es)
+
+
+
