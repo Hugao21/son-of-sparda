@@ -27,7 +27,7 @@ Além de várias outras Devil Arms.
 
 ## Armas de fogo
 
-**Ebony & Ivory** — o par de pistolas customizadas que carrega desde sempre. Uma preta, uma branca, sempre juntas.
+**Ebony & Ivory** — o par de pistolas customizadas que carrega desde sempre. Uma preta, uma branca, sempre juntas. Foi forjada pela Nell Goldstein, avó de Nico (personagem que aparece em Devil May Cry 5). O nome foi inspirado pelo criador da série na música "Ebony and Ivory" de Paul McCartney e Stevie Wonder
 
 ![ebonyivory](https://static.wikia.nocookie.net/devilmaycry/images/0/08/DMC5_Ebony_%26_Ivory.png/revision/latest?cb=20190326004640)
 
@@ -43,6 +43,8 @@ Dante é um mestre da improvisação e pode alternar instantaneamente entre quat
 *   **Swordmaster (Mestre das Espadas):** Maximiza o potencial destrutivo das armas de curta distância. Este estilo desbloqueia técnicas avançadas e combos elaborados, transformando cada lâmina ou manopla em uma ferramenta letal.
 *   **Gunslinger (Pistoleiro):** Eleva o uso de armas de fogo a uma verdadeira arte. Permite atirar em múltiplos alvos simultaneamente, ricochetear balas e desferir tiros concentrados com energia demoníaca pura.
 *   **Royal Guard (Guarda Real):** O estilo mais técnico, focado na defesa perfeita. Dante absorve o impacto dos ataques inimigos realizando bloqueios exatos (*Parry*). A energia acumulada dessa defesa pode ser liberada no devastador ataque *Release*, capaz de destruir oponentes gigantescos em um único acerto.
+-----
+**Exclusivos do Devil May Cry 3**
 *   **Quicksilver (Mercúrio):** Um estilo especial adquirido posteriormente ao derrotar o corcel demoníaco Geryon. Permite a Dante enviar ondas de choque dimensionais que desaceleram drasticamente o fluxo do tempo para os inimigos, enquanto ele próprio se move em velocidade normal.
 *   **Doppelganger (Sósia):** Outro estilo avançado conquistado no decorrer de suas missões. Ao ativá-lo, Dante manifesta um clone feito de pura sombra que espelha perfeitamente todos os seus golpes em tempo real, dobrando a força ofensiva de qualquer combo.
 
